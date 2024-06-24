@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "code postal":"84000",
+            "ville":"Avignon",
+            "Produit":"Toit solaire",
+            "date":"12/06/2023"
+        },
+        {
+            "code postal":"84000",
+            "ville":"Avignon",
+            "Produit":"Toit solaire 2",
+            "date":"12/06/2023"
+        },
+        {
+            "code postal":"84350",
+            "ville":"Avignon",
+            "Produit":"Toit solaire",
+            "date":"12/06/2023"
+        },
+        {
+            "code postal":"34000",
+            "ville":"Avignon",
+            "Produit":"Toit solaire",
+            "date":"12/06/2023"
+        }
+    ]
+}

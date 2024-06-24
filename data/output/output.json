@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "code postal": "34000",
+      "ville": "Avignon",
+      "lat": "43.61585838017677",
+      "lon": "3.878355364520202",
+      "elements": [
+        {
+          "Produit": "Toit solaire",
+          "date": "12/06/2023"
+        },
+        {
+          "Produit": "Toit solaire",
+          "date": "12/06/2023"
+        }
+      ]
+    },
+    {
+      "code postal": "84000",
+      "ville": "Avignon",
+      "lat": "43.9421375",
+      "lon": "4.8371033631186116",
+      "elements": [
+        {
+          "Produit": "Toit solaire",
+          "date": "12/06/2023"
+        },
+        {
+          "Produit": "Toit solaire 2",
+          "date": "12/06/2023"
+        },
+        {
+          "Produit": "Toit solaire",
+          "date": "12/06/2023"
+        },
+        {
+          "Produit": "Toit solaire 2",
+          "date": "12/06/2023"
+        }
+      ]
+    },
+    {
+      "code postal": "84350",
+      "ville": "Avignon",
+      "lat": "44.0876698",
+      "lon": "4.883137771345375",
+      "elements": [
+        {
+          "Produit": "Toit solaire",
+          "date": "12/06/2023"
+        },
+        {
+          "Produit": "Toit solaire",
+          "date": "12/06/2023"
+        }
+      ]
+    }
+  ]
+}
